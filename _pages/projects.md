@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Fow now, the projects are not updated. These are the source sample projects. I will update them as I add more content to the website. 
 nav: true
 nav_order: 2
 display_categories: [work, fun]
