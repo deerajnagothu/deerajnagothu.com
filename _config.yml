@@ -6,7 +6,7 @@ title: Deeraj Nagothu # the website title (if blank, full name will be used inst
 first_name: Deeraj
 middle_name: 
 last_name: Nagothu 
-email: dnagoth1@binghamton.edu
+email: deerajnagothu@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My online academic homestead.
 footer_text: >
@@ -97,7 +97,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  Best way to reach me is via Email or Twitter. 
+  Best way to reach me is via Email. 
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -115,7 +115,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Deeraj Nagothu # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Deeraj's academic homestead
+blog_description: Learn <-> Practice <-> Repeat
 permalink: /blog/:year/:title/
 
 # Pagination
