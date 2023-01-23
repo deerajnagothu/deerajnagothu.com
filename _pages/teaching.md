@@ -2,11 +2,11 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Instructed and assisted graduate classes @ECE Department (Binghamton University)
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+The materials I used to teach Network Computer Security will be updated here shortly. 
 
-Organize your courses by years, topics, or universities, however you like!
+I will also make a list of other classes that I have assisted with. 

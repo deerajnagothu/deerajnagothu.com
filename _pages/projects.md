@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Fow now, the projects are not updated. These are the source sample projects. I will update them as I add more content to the website. 
 nav: true

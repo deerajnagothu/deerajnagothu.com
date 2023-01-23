@@ -32,7 +32,7 @@
   pdf={example_pdf.pdf},
   altmetric={248277},
   dimensions={true},
-  selected={true}
+  selected={false}
 }
 
 @inproceedings{nagothu2021DeFakeDecentralized,
@@ -150,7 +150,7 @@
   title = {Real-Time Index Authentication for Event-Oriented Surveillance Video Query Using Blockchain},
   abbr = {IEEE-ISC2},
   booktitle = {2018 IEEE Int. Smart Cities Conf. ISC2 2018},
-  author = {Nikouei, S.Y. and Xu, R. and Nagothu, D. and Chen, Y. and Aved, A. and Blasch, E.},
+  author = {Nikouei, Seyed Y. and Xu, Ronghua and Nagothu, Deeraj and Chen, Yu and Aved, Alexander and Blasch, Erik},
   year = {2019},
   doi = {10.1109/ISC2.2018.8656668},
   abstract = {Information from surveillance video is essential for situational awareness (SAW). Nowadays, a prohibitively large amount of surveillance data is being generated continuously by ubiquitously distributed video sensors. It is very challenging to immediately identify the objects of interest or zoom in suspicious actions from thousands of video frames. Making the big data indexable is critical to tackle this problem. It is ideal to generate pattern indexes in a real-Time, on-site manner on the video streaming instead of depending on the batch processing at the cloud centers. The modern edge-fog-cloud computing paradigm allows implementation of time sensitive tasks at the edge of the network. The on-site edge devices collect the information sensed in format of frames and extracts useful features. The near-site fog nodes conduct the contextualization and classification of the features. The remote cloud center is in charge of more data intensive and computing intensive tasks. However, exchanging the index information among devices in different layers raises security concerns where an adversary can capture or tamper with features to mislead the surveillance system. In this paper, a blockchain enabled scheme is proposed to protect the index data through an encrypted secure channel between the edge and fog nodes. It reduces the chance of attacks on the small edge and fog devices. The feasibility of the proposal is validated through intensive experimental analysis.},
@@ -163,7 +163,7 @@
   title = {Robustness of Electrical Network Frequency Signals as a Fingerprint for Digital Media Authentication},
   abbr = {IEEE-MMSP},
   booktitle = {2022 IEEE 24th International Workshop on Multimedia Signal Processing (MMSP)},
-  author = {Poredi, Nihal and Nagothu, Deeraj and Chen, Yu and Li, Xiaohua and Aved, Alexander and {Ardiles-Cruz}, Erika and Blasch, Erik},
+  author = {Poredi, Nihal and Nagothu, Deeraj and Chen, Yu and Li, Xiaohua and Aved, Alexander and Ardiles-Cruz, Erika and Blasch, Erik},
   year = {2022},
   month = sep,
   pages = {1--6},
@@ -255,7 +255,8 @@
   abstract = {The rapid advancement in artificial intelligence (AI) and wide deployment of Internet of Video Things (IoVT) enable situation awareness (SAW). The robustness and security of IoVT systems are essential for a sustainable urban environment. While blockchain technology has shown great potential in enabling trust-free and decentralized security mechanisms, directly embedding cryptocurrency oriented blockchain schemes into resource-constrained Internet of Video Things (IoVT) networks at the edge is not feasible. By leveraging Electrical Network Frequency (ENF) signals extracted from multimedia recordings as region-of-recording proofs, this paper proposes EconLedger, an ENF-based consensus mechanism that enables secure and lightweight distributed ledgers for small-scale IoVT edge networks. The proposed consensus mechanism relies on a novel Proof-of-ENF (PoENF) algorithm where a validator is qualified to generate a new block if and only if a proper ENF-containing multimedia signal proof is produced within the current round. The decentralized database (DDB) is adopted in order to guarantee efficiency and resilience of raw ENF proofs on the off-chain storage. A proof-of-concept prototype is developed and tested in a physical IoVT network environment. The experimental results validated the feasibility of the proposed EconLedger to provide a trust-free and partially decentralized security infrastructure for IoVT edge networks.},
   copyright = {http://creativecommons.org/licenses/by/3.0/},
   langid = {english},
-  keywords = {blockchain,consensus,electrical network frequency (ENF),Internet of Video Things (IoVT),Proof-of-ENF (PoENF),security}
+  keywords = {blockchain,consensus,electrical network frequency (ENF),Internet of Video Things (IoVT),Proof-of-ENF (PoENF),security},
+  selected={true}
 }
 
 @incollection{xu2023ECOMEpoch,
@@ -274,4 +275,92 @@
   isbn = {978-3-031-10507-4},
   langid = {english},
   keywords = {Blockchain,Consensus committee configuration,Epoch randomness,Internet of Things (IoT),Scalability,Security}
+}
+
+
+@inproceedings{fitwi2019DistributedAgentbased,
+  title = {A Distributed Agent-Based Framework for a Constellation of Drones in a Military Operation},
+  booktitle = {Proc. - Winter Simul. Conf.},
+  author = {Fitwi, Alem H. and Nagothu, Deeraj and Chen, Yu and Blasch, Erik},
+  year = {2019},
+  volume = {2019-Decem},
+  issn = {08917736},
+  doi = {10.1109/WSC40007.2019.9004907},
+  abstract = {A seamless communication capability is important in military operations. Likewise, enhanced security, increased capacity, and robust communication mechanisms are vital for humanitarian and disaster-response operations. Often, a system of wide-band satellites is employed for real-time exchange of information and over-the-horizon control, but the communications are prone to denial of service (DoS) attacks, and delayed redeployment. Hence, a swarm of drones could be deployed in mission-critical operations in times of urgency for a secured and robust distributed-intercommunication which is essential for survivability and successful completion of missions. In this paper, a distributed-agent-based framework for secure and reliable information exchange between drones in a constellation is proposed. The framework comprises a mechanism for path planning simulation and estimation, a flexible network architecture for improved client-server(C/S) and peer-to-peer (P2P) connectivity, as well as agents for identity authentications and secure communications. The framework has been simulated and verified with results showing promise.},
+  isbn = {978-1-72813-283-9}
+}
+
+@incollection{nagothu2017ICrawlVisual,
+  title = {iCrawl: A Visual High Interaction Web Crawler},
+  booktitle = {Lect. Notes Comput. Sci. (Including Subser. Lect. Notes Artif. Intell. Lect. Notes Bioinformatics)},
+  author = {Nagothu, Deeraj and Dolgikh, Andrey},
+  year = {2017},
+  volume = {10446 LNCS},
+  issn = {16113349},
+  doi = {10.1007/978-3-319-65127-9_8},
+  abstract = { This paper presents ``iCrawl'', a visual high interaction client honeypot system. Web-based cyber-attacks have increased exponentially along with the growth of cloud-based web application technologies. Web browsers provide users with an entry point to these web applications. The iCrawl system is designed to deliver a high interaction honey client that is virtually indistinguishable from a real human-driven client. The system operates by driving an actual web browser in a fashion closely resembling a genuine user's actions. Unlike most crawlers iCrawl attempts to operate over visual elements on the web page, not code elements. The honeypot system consists of pre-configured decoy virtual machines. Each virtual machine includes spider program, which upon execution automates the process of driving the web browser and crawling the targeted website. It performs browsing by observing the page and simulating human user input through mouse and keyboard activity. The data collected from the crawling is stored in a graph database in the form of nodes and relations. This data captures the context and the changes in system behavior due to interaction with the crawled website. The graph data can be queried and monitored online for structural patterns and anomalies. The iCrawl system is enabling technology for studying sophisticated malicious websites that can avoid detection by the simpler crawlers typically utilized by well-known security companies.},
+  copyright = {All rights reserved},
+  isbn = {978-3-319-65126-2},
+  keywords = {Automatic web crawling,High interaction honeypot,Humanlike web interaction,System data collection}
+}
+
+@article{nagothu2019DetectingMalicious,
+  title = {Detecting Malicious False Frame Injection Attacks on Surveillance Systems at the Edge Using Electrical Network Frequency Signals},
+  author = {Nagothu, Deeraj and Chen, Yu and Blasch, Erik and Aved, Alexander and Zhu, Sencun},
+  year = {2019},
+  journal = {Sensors (Basel).},
+  volume = {19},
+  number = {11},
+  pages = {1--19},
+  issn = {14248220},
+  doi = {10.3390/s19112424},
+  abstract = {Over the past few years, the importance of video surveillance in securing national critical infrastructure has significantly increased, with applications including the detection of failures and anomalies. Accompanied by the proliferation of video is the increasing number of attacks against surveillance systems. Among the attacks, False Frame Injection (FFI) attacks that replay video frames from a previous recording to mask the live feed has the highest impact. While many attempts have been made to detect FFI frames using features from the video feeds, video analysis is computationally too intensive to be deployed on-site for real-time false frame detection. In this paper, we investigated the feasibility of FFI attacks on compromised surveillance systems at the edge and propose an effective technique to detect the injected false video and audio frames by monitoring the surveillance feed using the embedded Electrical Network Frequency (ENF) signals. An ENF operates at a nominal frequency of 60 Hz/50 Hz based on its geographical location and maintains a stable value across the entire power grid interconnection with minor fluctuations. For surveillance system video/audio recordings connected to the power grid, the ENF signals are embedded. The time-varying nature of the ENF component was used as a forensic application for authenticating the surveillance feed. The paper highlights the ENF signal collection from a power grid creating a reference database and ENF extraction from the recordings using conventional short-time Fourier Transform and spectrum detection for robust ENF signal analysis in the presence of noise and interference caused in different harmonics. The experimental results demonstrated the effectiveness of ENF signal detection and/or abnormalities for FFI attacks.},
+  copyright = {All rights reserved},
+  keywords = {Electrical Network Frequency (ENF) signal,False Frame Injection (FFI) attack,video surveillance,Video surveillance,visual layer attack,Visual layer attack}
+}
+
+@inproceedings{nagothu2019MicroserviceenabledArchitecture,
+  title = {A Microservice-Enabled Architecture for Smart Surveillance Using Blockchain Technology},
+  booktitle = {2018 IEEE Int. Smart Cities Conf. ISC2 2018},
+  author = {Nagothu, Deeraj and Xu, Ronghua and Nikouei, Seyed Y. and Chen, Yu},
+  year = {2019},
+  doi = {10.1109/ISC2.2018.8656968},
+  abstract = {While the smart surveillance system enhanced by the Internet of Things (IoT) technology becomes an essential part of Smart Cities, it also brings new concerns in security of the data. Compared to the traditional surveillance systems that is built following a monolithic architecture to carry out lower level operations, such as monitoring and recording, the modern surveillance systems are expected to support more scalable and decentralized solutions for advanced video stream analysis at the large volumes of distributed edge devices. In addition, the centralized architecture of the conventional surveillance systems is vulnerable to single point of failure and privacy breach owning to the lack of protection to the surveillance feed. This position paper introduces a novel secure smart surveillance system based on microservices architecture and blockchain technology. Encapsulating the video analysis algorithms as various independent microservices not only isolates the video feed from different sectors, but also improve the system availability and robustness by decentralizing the operations. The blockchain technology securely synchronizes the video analysis databases among microservices across surveillance domains, and provides tamper proof of data in the trustless network environment. Smart contract enabled access authorization strategy prevents any unauthorized user from accessing the microservices and offers a scalable, decentralized and fine-grained access control solution for smart surveillance systems.},
+  copyright = {All rights reserved},
+  isbn = {978-1-5386-5959-5},
+  keywords = {Blockchain,Decentralization,Microservices Architecture,Smart Contracts,Smart Surveillance}
+}
+
+@inproceedings{nagothu2019StudySmart,
+  title = {A Study on Smart Online Frame Forging Attacks against Video Surveillance System},
+  booktitle = {Proc. SPIE - Int. Soc. Opt. Eng.},
+  author = {Nagothu, Deeraj and Schwell, Jacob and Chen, Yu and Blasch, Erik and Zhu, Sencun},
+  year = {2019},
+  volume = {11017},
+  issn = {1996756X},
+  doi = {10.1117/12.2519005},
+  abstract = {Video Surveillance Systems (VSS) have become an essential infrastructural element of smart cities by increasing public safety and countering criminal activities. A VSS is normally deployed in a secure network to prevent the access from unauthorized personnel. Compared to traditional systems that continuously record video regardless of the actions in the frame, a smart VSS has the capability of capturing video data upon motion detection or object detection, and then extracts essential information and send to users. This increasing design complexity of the surveillance system, however, also introduces new security vulnerabilities. In this work, a smart, real-time frame duplication attack is investigated. We show the feasibility of forging the video streams in real-time as the camera's surroundings change. The generated frames are compared constantly and instantly to identify changes in the pixel values that could represent motion detection or changes in light intensities outdoors. An attacker (intruder) can remotely trigger the replay of some previously duplicated video streams manually or automatically, via a special quick response (QR) code or when the face of an intruder appear in the camera field of view. A detection technique is proposed by leveraging the real-time electrical network frequency (ENF) reference database to match with the power grid frequency.},
+  copyright = {All rights reserved},
+  isbn = {978-1-5106-2701-7},
+  keywords = {Edge computing,Electrical network frequency (ENF),Frame duplication attacks,Video surveillance}
+}
+
+@article{nagothu2020SmartSurveillance,
+  title = {Smart Surveillance for Public Safety Enabled by Edge Computing},
+  author = {Nagothu, Deeraj and Xu, Ronghua and Nikouei, Seyed Yahya and Zhao, Xuan and Chen, Yu},
+  year = {2020},
+  journal = {Edge Computing: Models, technologies and applications},
+  pages = {409--433}
+}
+
+@article{nagothu2021AuthenticatingVideo,
+  title = {Authenticating Video Feeds Using Electric Network Frequency Estimation at the Edge},
+  author = {Nagothu, Deeraj and Chen, Yu and Aved, Alexander and Blasch, Erik},
+  year = {2021},
+  month = feb,
+  journal = {EAI Endorsed Transactions on Security and Safety},
+  volume = {"7"},
+  number = {24},
+  issn = {2032-9393},
+  selected={true}
 }
