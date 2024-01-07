@@ -11,7 +11,6 @@ profile:
   address: >
     <p>Survivable Computing Lab</p>
     <p>ECE Department, Binghamton University</p>
-    <p> [CV](/assets/pdf/Deeraj_Nagothu_CV_2023.pdf) </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
