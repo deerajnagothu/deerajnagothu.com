@@ -2,24 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_DN.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><a href='assets/pdf/Deeraj_Nagothu_CV.pdf' target="_blank" rel="noopener noreferrer" class="float-Center"><i class="fas fa-file-pdf"></i> CV/Resume </a></p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there, Welcome to my Internet Homestead.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently a Research Scientist at Intelligent Fusion Technology ([IFT](https://i-fusion-i.com/)). We work on data and sensor fusion technologies in computer vision and advanced network technologies for field and space applications.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my Ph.D. from the [ECE](https://www.binghamton.edu/electrical-computer-engineering/index.html) Department at Binghamton University, advised by [Dr. Yu Chen](https://bingweb.binghamton.edu/~ychen/). My [dissertation research](https://www.proquest.com/docview/2872097834/F3D20DE2EA6A4580PQ/1?sourcetype=Dissertations%20&%20Theses) was primarily focused on 'Multimedia Authentication against Adversarial Threats,' which steered my interest toward minimizing misinformation in the media.
+
+As a researcher, I am deeply interested in all aspects of Information security and AI technology. My Research interests include Multimedia Authentication, ML for Computer Vision, and Network Computer Security.
+
+Apart from my professional activities, I enjoy CrossFit and Running. I am an avid [photographer](https://www.flickr.com/photos/deerajnagothu/) and mostly enjoy Landscape photography.
+
+Feel free to reach out via email. :grin:
