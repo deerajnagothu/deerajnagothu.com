@@ -18,11 +18,11 @@ social: true # includes social icons at the bottom of the page
 
 Hi there, Welcome to my Internet Homestead.
 
-I am currently a Research Scientist at Intelligent Fusion Technology ([IFT](https://i-fusion-i.com/)). We work on data and sensor fusion technologies in computer vision and advanced network technologies for field and space applications.
+I am currently a Research Scientist at Intelligent Fusion Technology ([IFT](https://i-fusion-i.com/)). We work on data and sensor fusion technologies in computer vision, neuro-symbolic AI and advanced network technologies for field and space applications.
 
 I received my Ph.D. from the [ECE](https://www.binghamton.edu/electrical-computer-engineering/index.html) Department at Binghamton University, advised by [Dr. Yu Chen](https://bingweb.binghamton.edu/~ychen/). My [dissertation research](https://www.proquest.com/docview/2872097834/F3D20DE2EA6A4580PQ/1?sourcetype=Dissertations%20&%20Theses) was primarily focused on 'Multimedia Authentication against Adversarial Threats,' which steered my interest toward minimizing misinformation in the media.
 
-As a researcher, I am deeply interested in all aspects of Information security and AI technology. My Research interests include Multimedia Authentication, AI Safety & Security, ML for Computer Vision, and Network Computer Security. I am open to new opportunities, please reach our via email.
+As a researcher, I am deeply interested in all aspects of Information security and AI technology. My Research interests include LLM Safety and Security, Optimization, Multimedia Authentication, ML for Computer Vision, and Network Computer Security. I am open to new opportunities, please reach our via email.
 
 Apart from my professional activities, I enjoy CrossFit and Running. I am an avid [photographer](https://www.flickr.com/photos/deerajnagothu/) and mostly enjoy Landscape photography.
 
