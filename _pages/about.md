@@ -18,7 +18,9 @@ social: true # includes social icons at the bottom of the page
 
 Hi there, Welcome to my Internet Homestead.
 
-I am currently working as a Hardware Systems Engineer at Microsoft. I received my Ph.D. from the [ECE](https://www.binghamton.edu/electrical-computer-engineering/index.html) Department at Binghamton University, advised by [Dr. Yu Chen](https://bingweb.binghamton.edu/~ychen/). My [dissertation research](https://www.proquest.com/docview/2872097834/F3D20DE2EA6A4580PQ/1?sourcetype=Dissertations%20&%20Theses) was primarily focused on 'Multimedia Authentication against Adversarial Threats,' which steered my interest toward minimizing misinformation in the media.
+I am currently working as a Hardware Systems Engineer at [Microsoft](https://www.microsoft.com/en-us). Currently focusing on Hardware systems security and validation for large scale compute clusters. 
+
+I received my Ph.D. from the [ECE](https://www.binghamton.edu/electrical-computer-engineering/index.html) Department at Binghamton University, advised by [Dr. Yu Chen](https://bingweb.binghamton.edu/~ychen/). My [dissertation research](https://www.proquest.com/docview/2872097834/F3D20DE2EA6A4580PQ/1?sourcetype=Dissertations%20&%20Theses) was primarily focused on 'Multimedia Authentication against Adversarial Threats,' which steered my interest toward minimizing misinformation in the media.
 
 As a researcher, I am deeply interested in all aspects of system security and AI technology. My Research interests include Hardware security, LLM Safety, Optimization, Multimedia Authentication, ML for Computer Vision, and Network Computer Security. If you have anything interesting to share, please reach our via email.
 
